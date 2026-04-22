@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portofolio.zkpro.my.id/sitemap.xml
